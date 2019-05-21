@@ -12,8 +12,11 @@ import tk.mybatis.spring.annotation.MapperScan;
 public class Application extends SpringBootServletInitializer {
 
 	public static void main(String[] args) {
+		111111111
 		SpringApplication.run(Application.class, args);
 	}
+            
+
 
 	@Override
 	protected SpringApplicationBuilder configure(SpringApplicationBuilder application) {
