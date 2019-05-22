@@ -12,7 +12,6 @@ import tk.mybatis.spring.annotation.MapperScan;
 public class Application extends SpringBootServletInitializer {
 
 	public static void main(String[] args) {
-		222222222222
 		SpringApplication.run(Application.class, args);
 	}
             
